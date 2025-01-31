@@ -1,12 +1,8 @@
 # PropEase - Real Estate Management Landing Page
 
-## 🔥 Introduction
+## Introduction
 
 PropEase is a modern real estate management landing page that showcases property listings, agent profiles, and real estate services with an elegant and responsive design.
-
-## 🔗 Live Preview
-
-Check out the live demo of caps.ai here: [Live Preview](propease-seven.vercel.app/)
 
 ## 💻 Tech Stack
 
