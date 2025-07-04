@@ -6,23 +6,23 @@ export interface PerkItem {
 
 export const PERKS: PerkItem[] = [
     {
-        title: "Property Sync",
-        description: "Sync listings across platforms instantly.",
+        title: "$2T",
+        description: "Annual productivity losses from climate extremes",
         icon: "/icons/perk-one.svg"
     },
     {
-        title: "Smart Analytics",
-        description: "Track performance with realtime insights.",
+        title: "83%",
+        description: "Increase in climate-related disaster events",
         icon: "/icons/perk-two.svg"
     },
     {
-        title: "Doc Manager",
-        description: "Handle documents and esigns easily.",
+        title: "$25T",
+        description: "Supply chain losses from climate disruptions",
         icon: "/icons/perk-three.svg"
     },
     {
-        title: "Lead Connect",
-        description: "Manage all property inquiries centrally.",
+        title: "97%",
+        description: "Accuracy through AI-powered satellite analysis",
         icon: "/icons/perk-four.svg"
     }
-]; 
+];

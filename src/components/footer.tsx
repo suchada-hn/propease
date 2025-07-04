@@ -5,17 +5,17 @@ import AnimationContainer from "./global/animation-container";
 import Wrapper from "./global/wrapper";
 
 const PRODUCT_LINKS = [
-  { label: "Property Search", href: "#" },
-  { label: "Management Tools", href: "#" },
-  { label: "Virtual Tours", href: "#" },
-  { label: "Market Analytics", href: "#" },
+  { label: "Satellite Monitoring", href: "#" },
+  { label: "AI Analysis", href: "#" },
+  { label: "Environmental Insights", href: "#" },
+  { label: "Real-time Alerts", href: "#" },
 ];
 
 const RESOURCES_LINKS = [
-  { label: "Knowledge Base", href: "#" },
-  { label: "Market Reports", href: "#" },
-  { label: "Property Guides", href: "#" },
-  { label: "Success Stories", href: "#" },
+  { label: "Documentation", href: "#" },
+  { label: "Case Studies", href: "#" },
+  { label: "Research Papers", href: "#" },
+  { label: "API Reference", href: "#" },
 ];
 
 const COMPANY_LINKS = [
@@ -51,20 +51,20 @@ const Footer = () => {
               <div className="flex items-center gap-2">
                 <Image
                   src="/icons/icon.svg"
-                  alt="PropEase"
+                  alt="RIFFAI"
                   width={32}
                   height={32}
                 />
-                <span className="text-lg lg:text-xl font-medium">PropEase</span>
+                <span className="text-lg lg:text-xl font-medium">RIFFAI</span>
               </div>
               <p className="text-muted-foreground mt-4 text-sm">
-                123 Pine Avenue, Suite 500
+                AI-powered satellite solutions for environmental monitoring
                 <br />
-                New York, NY 10001
+                Bringing space down to earth
               </p>
               <div className="mt-4 text-sm text-muted-foreground">
-                <p>support@propease.com</p>
-                <p>+212 6 36 93 91 79</p>
+                <p>contact@riffai.com</p>
+                <p>+1 (555) 123-4567</p>
               </div>
               <div className="flex items-center gap-4 mt-6">
                 {SOCIAL_LINKS.map((social, index) => (
@@ -89,7 +89,7 @@ const Footer = () => {
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <AnimationContainer animation="fadeUp" delay={0.5}>
                 <div>
-                  <h3 className="text-base font-medium">Product</h3>
+                  <h3 className="text-base font-medium">Solutions</h3>
                   <ul className="mt-4 space-y-2 text-sm text-muted-foreground">
                     {PRODUCT_LINKS.map((link, index) => (
                       <AnimationContainer
@@ -165,7 +165,7 @@ const Footer = () => {
         <AnimationContainer animation="fadeUp" delay={1}>
           <div className="mt-16 border-t border-border/40 py-8 flex flex-col md:flex-row items-center justify-center">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} PropEase. All rights reserved.
+              © {new Date().getFullYear()} RIFFAI. All rights reserved.
             </p>
           </div>
         </AnimationContainer>

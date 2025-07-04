@@ -18,21 +18,21 @@ const PlatformMetrics = () => {
 
                     <AnimationContainer animation="fadeUp" delay={0.3}>
                         <h2 className="text-2xl md:text-4xl lg:text-5xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                            Transforming real estate
+                            Impact Space and Everyday Life
                             <br />
-                            management globally
+                            on a Planetary Scale
                         </h2>
                     </AnimationContainer>
 
                     <AnimationContainer animation="fadeUp" delay={0.4}>
                         <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-2xl mx-auto">
-                            Join thousands who trust our platform to streamline operations and grow.
+                            Advanced satellite technology and AI models delivering unprecedented environmental insights for global decision-making.
                         </p>
                     </AnimationContainer>
 
                     <AnimationContainer animation="fadeUp" delay={0.5}>
                         <Button className="mt-4">
-                            Start your journey
+                            Contact Us
                         </Button>
                     </AnimationContainer>
                 </div>
@@ -101,4 +101,4 @@ const PlatformMetrics = () => {
     );
 };
 
-export default PlatformMetrics; 
+export default PlatformMetrics;

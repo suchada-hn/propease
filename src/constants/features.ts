@@ -1,25 +1,25 @@
 export const FEATURES = [
     {
-        title: "Smart property management",
-        description: "Manage multiple properties effortlessly with our AI-powered dashboard. Track rent payments and maintenance schedules.",
+        title: "Flood Warning & Water Management",
+        description: "Advanced NDWI mapping and real-time flood prediction using satellite imagery and AI analysis for proactive water resource management.",
         image: "/images/f1.svg",
         size: "large"
     },
     {
-        title: "Real-time analytics",
-        description: "Track property views, leads, and revenue through real-time analytics.",
+        title: "Illegal Landfill & Methane Detection",
+        description: "Spectral analysis for detecting unauthorized waste sites and methane emissions monitoring.",
         image: "/images/f2.svg",
         size: "small"
     },
     {
-        title: "Smart transaction hub",
-        description: "Handle property transactions securely in one place, from offers to digital contracts and payments.",
+        title: "Renewable Energy Site Automation",
+        description: "Automated monitoring and optimization of wind turbine and solar panel installations using satellite-based analysis.",
         image: "/images/f3.svg",
         size: "large"
     },
     {
-        title: "Instant property valuation",
-        description: "Get real-time market valuations powered by AI and big data for informed pricing decisions.",
+        title: "Erosion & Land Damage Assessment",
+        description: "Comprehensive land degradation monitoring and erosion pattern analysis for environmental protection.",
         image: "/images/f4.svg",
         size: "small"
     },

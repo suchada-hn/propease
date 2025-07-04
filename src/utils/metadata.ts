@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 
 export const generateMetadata = ({
-    title = `${process.env.NEXT_PUBLIC_APP_NAME} | Home`,
-    description = `Manage your real estate properties with ease.`,
+    title = `RIFFAI | AI-Powered Satellite Solutions`,
+    description = `Bring space down to earth with AI-powered satellite solutions for monitoring environmental change. 97% accuracy through advanced satellite analysis.`,
     image = "/thumbnail.png",
     icons = [
         {

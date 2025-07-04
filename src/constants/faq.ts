@@ -5,27 +5,27 @@ export type FAQItem = {
 
 export const FAQS: FAQItem[] = [
     {
-        question: "How does the property listing process work?",
-        answer: "Our platform makes listing properties simple. Upload property details, photos, and documents through our intuitive interface. Your listings are instantly visible to potential buyers or renters, with AI-powered optimization for maximum visibility."
+        question: "How accurate is RIFFAI's satellite analysis?",
+        answer: "Our AI-powered platform delivers 97% accuracy by integrating data from over 20 satellites and analyzing 800+ environmental parameters. This precision is achieved through proprietary machine learning models trained on extensive satellite datasets."
     },
     {
-        question: "What tools are available for property management?",
-        answer: "We offer a comprehensive suite of tools including automated rent collection, maintenance request tracking, tenant screening, financial reporting, and document management. All these features are integrated seamlessly into one dashboard."
+        question: "What types of environmental monitoring does RIFFAI provide?",
+        answer: "We offer comprehensive monitoring including flood prediction, methane detection, renewable energy site optimization, erosion assessment, illegal landfill identification, and climate change impact analysis across various industries."
     },
     {
-        question: "How secure are the transactions on your platform?",
-        answer: "We implement bank-level security measures for all transactions. Our platform uses advanced encryption, secure payment gateways, and multi-factor authentication to ensure your financial transactions are completely safe."
+        question: "How does RIFFAI differ from traditional ground-based monitoring?",
+        answer: "Unlike ground-based stations, our satellite-powered approach provides continuous, wide-area coverage without physical infrastructure limitations. This enables real-time monitoring of remote areas and delivers insights that ground sensors simply cannot match."
     },
     {
-        question: "Can I manage multiple properties efficiently?",
-        answer: "Absolutely! Our platform is designed to handle multiple properties with ease. You can organize properties by portfolios, track performance metrics across all properties, and manage multiple tenant relationships from a single dashboard."
+        question: "Can RIFFAI integrate with existing environmental management systems?",
+        answer: "Yes, our platform offers robust API access and custom integration capabilities. We work with your existing workflows and can provide white-label solutions for enterprise clients requiring seamless system integration."
     },
     {
-        question: "What kind of support do you provide?",
-        answer: "We offer 24/7 customer support through multiple channels including live chat, email, and phone. Our dedicated support team is trained to help with technical issues, platform navigation, and best practices for property management."
+        question: "What kind of support does RIFFAI provide?",
+        answer: "We offer comprehensive support ranging from email assistance for starter plans to dedicated support teams for enterprise clients. Our team includes specialists from leading institutions who understand both the technical and practical aspects of environmental monitoring."
     },
     {
-        question: "Is there a mobile app available?",
-        answer: "Yes, we have both iOS and Android apps available. The mobile apps offer all core functionalities of the web platform, allowing you to manage your properties on the go with real-time notifications and updates."
+        question: "How quickly can RIFFAI detect environmental changes?",
+        answer: "Our real-time monitoring capabilities can detect significant environmental changes within hours of satellite data acquisition. Critical alerts for events like flooding or methane leaks are processed and delivered immediately to ensure rapid response times."
     }
 ];

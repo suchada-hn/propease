@@ -10,20 +10,20 @@ const Perks = () => {
         <Wrapper className="py-20 lg:py-32 relative">
             <div className="flex flex-col items-center text-center gap-4">
                 <AnimationContainer animation="fadeUp" delay={0.2}>
-                    <SectionBadge title="Perks" />
+                    <SectionBadge title="The Challenge" />
                 </AnimationContainer>
 
                 <AnimationContainer animation="fadeUp" delay={0.3}>
                     <h2 className="text-2xl md:text-4xl lg:text-5xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                        Use our platform
+                        The Rising Cost of
                         <br />
-                        with powerful tools
+                        Environmental Uncertainty
                     </h2>
                 </AnimationContainer>
 
                 <AnimationContainer animation="fadeUp" delay={0.4}>
                     <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-2xl mx-auto">
-                        Seamlessly integrated tools for effortless property management.
+                        Climate extremes and environmental disasters are creating unprecedented economic impacts across global industries.
                     </p>
                 </AnimationContainer>
             </div>
@@ -82,4 +82,4 @@ const Perks = () => {
     );
 };
 
-export default Perks; 
+export default Perks;
